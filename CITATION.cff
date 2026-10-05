@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this computational companion and the associated manuscript."
+type: software
+title: "Quantum Computing for Financial Applications: Practice, Workflows and Benchmarking"
+authors:
+  - family-names: Gong
+    given-names: Hui
+    affiliation: "UCL IFT Center for Quantum Finance, University College London"
+  - family-names: Medda
+    given-names: Francesca
+    affiliation: "UCL IFT Center for Quantum Finance, University College London"
+repository-code: "https://github.com/gonghui945/quantum-finance-practice"
+url: "https://github.com/gonghui945/quantum-finance-practice"
+abstract: >
+  Python and notebook examples connecting financial tasks to local quantum
+  circuits, classical benchmarks and financially interpretable outputs.
+keywords:
+  - quantum computing
+  - quantitative finance
+  - QAOA
+  - quantum machine learning
+  - PennyLane
+  - Qiskit

@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+# Empirical inputs and generated outputs are held separately.
+/data/
+/results/
+*.parquet
+*.npz
+# Local credentials and provider configuration.
+.env
+.env.*
+*.pem
+*.key
+credentials*
+notebooks/*.html
+*.zip

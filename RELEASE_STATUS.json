@@ -1,0 +1,19 @@
+{
+  "mode": "code-and-synthetic-examples",
+  "published": false,
+  "market_data_included": false,
+  "saved_results_included": false,
+  "notebook_outputs_included": false,
+  "upstream_provider": "Bloomberg (author attribution, 1 October 2026)",
+  "redistribution_permission_confirmed": false,
+  "coauthor_confirmation_reported_by_author": "2026-10-01",
+  "code_licence": "Exact licence identifier/text not yet supplied",
+  "synthetic_csvs_included": true,
+  "synthetic_quickstart_notebook_included": true,
+  "market_workflow_notebooks": 5,
+  "landing_url": "https://github.com/gonghui945/quantum-finance-practice",
+  "landing_url_kind": "Prepared repository address; publication is recorded by the published flag",
+  "repository_url": "https://github.com/gonghui945/quantum-finance-practice",
+  "release_identifier": null,
+  "release_doi": null
+}
