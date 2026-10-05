@@ -1,6 +1,6 @@
 {
   "mode": "code-and-synthetic-examples",
-  "published": false,
+  "published": true,
   "market_data_included": false,
   "saved_results_included": false,
   "notebook_outputs_included": false,
@@ -12,7 +12,7 @@
   "synthetic_quickstart_notebook_included": true,
   "market_workflow_notebooks": 5,
   "landing_url": "https://github.com/gonghui945/quantum-finance-practice",
-  "landing_url_kind": "Prepared repository address; publication is recorded by the published flag",
+  "landing_url_kind": "Verified public repository",
   "repository_url": "https://github.com/gonghui945/quantum-finance-practice",
   "release_identifier": null,
   "release_doi": null
